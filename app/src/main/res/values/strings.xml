@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MatFront</string>
+    <string name="entrar">Entrar</string>
+    <string name="Cadastrar_Usuario">Cadastre seu usuário</string>
+    <string name="Entrar_Com_Google">Entrar com o Google</string>
+    <string name="Email_hint">Email</string>
+    <string name="senha_hint">Senha</string>
+    <string name="esqueci_senha">Esqueci a senha</string>
 </resources>
